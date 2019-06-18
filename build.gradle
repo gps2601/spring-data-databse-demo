@@ -42,5 +42,9 @@ test {
     }
 }
 
+bootJar {
+    mainClassName = 'demodb.App'
+}
+
 
 mainClassName= 'demodb.App'
